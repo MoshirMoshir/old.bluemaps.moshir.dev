@@ -2,11 +2,12 @@
 BlueMaps is an interactive map of the Blue Hole from Dave the Diver! <br>
 Navigate your way from the Shallows to the Depths and also find points of interests with ease!
 
-## !!! Announcement !!!
-I am extremely busy and don't have the free time to actively work on this project. <br>
-I will do my best to update it from time to time; it would be very appreciated if you can provide any help: <br>
-Currently I need to compile all the locations of points of interests such as Sharks, Fish, Items, etc <br>
-If anyone is able to provide a clearer map OR have the art skills to colorize/beutify the current ones that'd be lit uwu <br> <br>
+## !!! Announcement 31 March 2025 !!!
+I finally have the skillset to develop this into a webapp of what I intended it to be. <br>
+### The new map will be live May 1st 2025! (same link at bluemaps.moshir.dev)
+> The old site will still be accessable, and moved to old.bluemaps.moshir.dev
+
+<br>
 If you would like to help or get in contact with me, join the official [Dave the Diver Discord](https://discord.com/invite/davethediver) and check out the [BlueMaps discussion page](https://discord.com/channels/977061952960462848/1128284887472930888)
 
 ## 
